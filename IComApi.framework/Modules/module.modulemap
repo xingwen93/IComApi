@@ -1,0 +1,6 @@
+framework module IComApi {
+  umbrella header "IComApi.h"
+
+  export *
+  module * { export * }
+}
